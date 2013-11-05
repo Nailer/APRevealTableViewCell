@@ -6,8 +6,8 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="DemoRevealCell">
             <connections>
-                <outlet property="leftDrawerContent" destination="MJO-cB-gGZ" id="ZSF-15-Rbg"/>
-                <outlet property="rightDrawerContent" destination="K9h-vN-KMP" id="bm5-kK-LHl"/>
+                <outlet property="leftDrawerContentView" destination="MJO-cB-gGZ" id="ZSF-15-Rbg"/>
+                <outlet property="rightDrawerContentView" destination="K9h-vN-KMP" id="bm5-kK-LHl"/>
             </connections>
         </placeholder>
         <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>

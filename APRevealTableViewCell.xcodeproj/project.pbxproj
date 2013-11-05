@@ -225,7 +225,7 @@
 				ORGANIZATIONNAME = "Andreas Petrov";
 				TargetAttributes = {
 					ED6E6BD318296B6D001A3007 = {
-						TestTargetID = ED6E6BAF18296B6D001A3007;
+						TestTargetID = ED6E6BAF18296B6D001A3007 /* APRevealTableViewCell */;
 					};
 				};
 			};
